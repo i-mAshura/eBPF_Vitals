@@ -1,0 +1,27 @@
+# Paper, presentation, and document files (explicitly ignored as requested)
+*.pdf
+*.ppt
+*.pptx
+*.tex
+*.bib
+
+# Virtual environments & caches
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
